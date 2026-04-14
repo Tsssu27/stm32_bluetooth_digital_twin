@@ -1,0 +1,30 @@
+# C/C++ & STM32 编译缓存
+build/
+Debug/
+Release/
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+.mxproject
+
+# Python 环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.log
+
+# IDE 配置文件
+.vscode/
+.idea/
+.cursorrules
+*.launch
+
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
